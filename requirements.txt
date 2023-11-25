@@ -1,4 +1,1 @@
-streamlit
-pandas
-numpy
-matplotlib
+matplotlib==3.4.3
